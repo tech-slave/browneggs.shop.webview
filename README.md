@@ -25,8 +25,9 @@ yarn install
 
 ### 3. Initialize Expo
 ```bash
-npx expo start
+npx expo start 
 ```
+<!-- using above you will also get a qr for testing -->
 
 ### 4. Configure EAS Build
 1. Login to your Expo account:
